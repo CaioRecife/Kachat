@@ -1,2 +1,2 @@
-# cachat
+# Kachat
 a chat service

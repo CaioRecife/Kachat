@@ -1,2 +1,2 @@
-# Amigo
+# Converso
 a chat service

@@ -1,2 +1,2 @@
-# Kachat
+# Amigo
 a chat service
